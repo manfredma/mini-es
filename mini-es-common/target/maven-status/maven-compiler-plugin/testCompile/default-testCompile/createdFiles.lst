@@ -1,0 +1,3 @@
+org/miniEs/common/bytes/BytesArrayTest.class
+org/miniEs/common/io/StreamInputOutputTest.class
+org/miniEs/common/xcontent/XContentBuilderTest.class
